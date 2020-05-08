@@ -1,4 +1,4 @@
-<p>Maintained by andrewcoder515.</p>
+<h2>Maintained by andrewcoder515.</h2>
 
 <h1>          AOL Browser         </h1>
 
